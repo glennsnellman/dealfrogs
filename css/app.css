@@ -9,3 +9,17 @@ body {
   margin: 300px 0;
   padding: 40px 20px 0 20px;
 }
+.sidebar
+{
+  background: #e6e6e6;
+  padding: 30px;
+  width: 250px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 56px;
+}
+.button-group a
+{
+display: block;
+}
